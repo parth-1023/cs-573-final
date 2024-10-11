@@ -16,7 +16,7 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Sketches
 
-[![image](https://github.com/parth-1023/dataviz-project-template-proposal/blob/master/sketches.jpg)]
+[image](https://github.com/parth-1023/dataviz-project-template-proposal/blob/master/sketches.jpg)
 (describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
 
 
