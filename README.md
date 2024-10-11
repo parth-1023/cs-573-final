@@ -9,40 +9,40 @@ The data I propose to visualize for my project is World Cup Data which can be fo
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * (insert your question or task here) How does the X vary over time?
- * (insert your question or task here) Is there any correlation between X and Y?
- * (insert your question or task here) Are there interesting spatial patterns in X?
- * (insert your question or task here) How many X are there across different Y?
+ * How to visualize the winning score/stats for a team
+ * How to calculate the run rate for the line graph
+ * Is there any interesting relation between Over Number and Wickets Taken?
+ * As given to me in a feedback will try to make the landing page more interesting and fun!
 
 ## Sketches
 
-[image](https://github.com/parth-1023/dataviz-project-template-proposal/blob/master/sketches.jpg)
-(describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
+[![image](https://github.com/parth-1023/dataviz-project-template-proposal/blob/master/sketches.jpg)]
+*The sketches show how the interaction would work as I have imagined it.
+*First the user woud see a world map and zoom over the regio he clicked on.
+*Then he would be presented with different stadiums all over the country, which he would click on and see different matches.
+*After clicking on a match he would be presented with a line graph.
 
 
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
+I’ve created a proof of concept visualization of this data. It's a line graph and it shows relation between Runs and Overs.
 
 [![image](https://github.com/parth-1023/dataviz-project-template-proposal/blob/master/graph.jpeg)](https://vizhub.com/parth-1023/c5cca3103fb344e7a1f38bfd0199f626)
 
-(please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments, and link to them)
-
-You can put images into here by pasting them into issues.
-
-You can make images into links like this:
-
-```
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
-```
-
-
-Also, you can study the [source](https://raw.githubusercontent.com/curran/dataviz-project-template-proposal/master/README.md) to figure out Markdown formatting. You can use the GitHub built-in editor to edit the document.
 
 ## Open Questions
-
-(describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
+I am not sure whether I will be able to interact with the world map as I want to. I want to have the outline of the countries where the world cup happened after I hover over them and zoom into them after I click on them.
+I will try to implemet this but if not then I might implememt a "ppor man's version of this idea".
 
 ## Milestones
 
-(for each week, estimate what would be accomplised)
+*Week 1:
+Try to make the landing page with the world map.
+*Week 2:
+Will try to add interaction to different maps.
+*Week 3:
+Try to add hover and click events in the visualization.
+*Week 4:
+Implement line graph and its feature.
+*Week 5
+Final touches
