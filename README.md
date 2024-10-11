@@ -33,7 +33,7 @@ I’ve created a proof of concept visualization of this data. It's a line graph 
 
 ## Open Questions
 I am not sure whether I will be able to interact with the world map as I want to. I want to have the outline of the countries where the world cup happened after I hover over them and zoom into them after I click on them.
-I will try to implemet this but if not then I might implememt a "ppor man's version of this idea".
+I will try to implemet this but if not then I might implememt a "poor man's version of this idea".
 
 ## Milestones
 
