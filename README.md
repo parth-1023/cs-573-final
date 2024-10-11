@@ -18,9 +18,9 @@ The following tasks and questions will drive the visualization and interaction d
 
 [![image](https://github.com/parth-1023/dataviz-project-template-proposal/blob/master/sketches.jpg)]
 
- * he sketches show how the interaction would work as I have imagined it.
+ * The sketches show how the interaction would work as I have imagined it.
  * First the user woud see a world map and zoom over the regio he clicked on.
- * hen he would be presented with different stadiums all over the country, which he would click on and see different matches.
+ * Then he would be presented with different stadiums all over the country, which he would click on and see different matches.
  * After clicking on a match he would be presented with a line graph.
 
 
@@ -37,16 +37,14 @@ I will try to implemet this but if not then I might implememt a "ppor man's vers
 
 ## Milestones
 
+ * Week 1:
+   Try to make the landing page with the world map.
+ * Week 2:
+   Will try to add interaction to different maps.
+ * Week 3:
+   Try to add hover and click events in the visualization.
+ * Week 4:
+   Implement line graph and its feature.
+ * Week 5:
+   Final touches
 
-
-
-*Week 1:
-Try to make the landing page with the world map.
-*Week 2:
-Will try to add interaction to different maps.
-*Week 3:
-Try to add hover and click events in the visualization.
-*Week 4:
-Implement line graph and its feature.
-*Week 5
-Final touches
