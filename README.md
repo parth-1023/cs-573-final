@@ -2,7 +2,7 @@
 
 ## Data
 
-The data I propose to visualize for my project is World Cuo Data which can be found [here](https://www.kaggle.com/datasets/akshatkjain/icc-world-cup-2007-2023-over-by-over-summary)
+The data I propose to visualize for my project is World Cup Data which can be found [here](https://www.kaggle.com/datasets/akshatkjain/icc-world-cup-2007-2023-over-by-over-summary)
 
 
 ## Questions & Tasks
