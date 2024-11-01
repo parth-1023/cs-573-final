@@ -48,3 +48,7 @@ I will try to implemet this but if not then I might implememt a "poor man's vers
  * Week 5:
    Final touches
 
+## Week 2 update
+Cleaned data as I was working with a temporary data for the globe (https://vizhub.com/parth-1023/9a4270b3efa443178f9b4747848cb729?edit=files&file=map.js&tabs=index.js%7Emap.js)
+Added coordinates for each city as they were missing from the dataset (https://vizhub.com/parth-1023/9f2d252745ec4e83b65c697fb8996731)
+
