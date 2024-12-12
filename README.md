@@ -54,16 +54,16 @@ Added coordinates for each city as they were missing from the dataset (https://v
 
 ## Week 3 update 
 Tried to play around hiding the point behind the globe when it is rotated but could not properly implement it
-(https://vizhub.com/parth-1023/ba2f42459884448180777cf4a6be40ee)
+[![image](https://github.com/parth-1023/cs-573-final/blob/master/week%202%20update.jpeg)](https://vizhub.com/parth-1023/ba2f42459884448180777cf4a6be40ee)
 Also made some changes to the data that was being used as it was close to 5Mb and was really slow to load.
 (https://vizhub.com/parth-1023/312eebbfee944cc7b5c8a8b49992d918)
 
 ## Week 4 update 
 Properly implemented the cities on globe feature, where when you hover over a particular city you are presented with a table where you can see the matches and their details played at that city.
-(https://vizhub.com/parth-1023/2e6f345d7b304c5ead755144aa27438b)
+[![image](https://github.com/parth-1023/cs-573-final/blob/master/week%204%20update.jpeg)](https://vizhub.com/parth-1023/2e6f345d7b304c5ead755144aa27438b)
 
 ## Week 5 update
 Implemented the line graph chart for each match of each city where you can see runs scored through each over in that particular match.
-(https://vizhub.com/parth-1023/9963ba82905847b5bbb21303aba4162e)
+[![image](https://github.com/parth-1023/cs-573-final/blob/master/week%205%20update.jpeg)](https://vizhub.com/parth-1023/9963ba82905847b5bbb21303aba4162e)
 Also made some changes to the overall feel of the project.
 
