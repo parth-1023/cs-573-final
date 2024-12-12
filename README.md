@@ -60,7 +60,7 @@ Also made some changes to the data that was being used as it was close to 5Mb an
 
 ## Week 4 update 
 Properly implemented the cities on globe feature, where when you hover over a particular city you are presented with a table where you can see the matches and their details played at that city.
-[![image](https://github.com/parth-1023/cs-573-final/blob/master/week%204%20update.jpeg)](https://vizhub.com/parth-1023/2e6f345d7b304c5ead755144aa27438b)
+[![image](https://github.com/parth-1023/cs-573-final/blob/master/final%20globe.jpeg)](https://vizhub.com/parth-1023/2e6f345d7b304c5ead755144aa27438b)
 
 ## Week 5 update
 Implemented the line graph chart for each match of each city where you can see runs scored through each over in that particular match.
