@@ -67,3 +67,6 @@ Implemented the line graph chart for each match of each city where you can see r
 [![image](https://github.com/parth-1023/cs-573-final/blob/master/week%205%20update.jpeg)](https://vizhub.com/parth-1023/9963ba82905847b5bbb21303aba4162e)
 Also made some changes to the overall feel of the project.
 
+##Future Scope
+In future i would like to implement a feature when you click on a particular match from the table we see the line graph besides the table.
+
